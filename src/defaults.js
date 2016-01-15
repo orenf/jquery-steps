@@ -100,7 +100,7 @@ var defaults = $.fn.steps.defaults = {
     stepsOrientation: stepsOrientation.horizontal,
 
     /*
-     * Tempplates
+     * Templates
      */
 
     /**
